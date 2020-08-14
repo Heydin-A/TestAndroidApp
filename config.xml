@@ -22,6 +22,7 @@
   <preference name="FullScreen" value="true" />
   <preference name="DisallowOverscroll" value="true" />
   <preference name="android-targetSdkVersion" value="29" />
+  <preference name="Orientation" value="landscape" />
               
               
 
